@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: orderDB
+      username: root
+      password: 20021973Maks
+      database: orderDB
+      port: 27017
+      host: localhost
