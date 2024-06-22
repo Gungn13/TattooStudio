@@ -1,0 +1,17 @@
+.contactBlock{
+    background-color: #fff;
+    width: 600px;
+    height: 80px;
+    border-radius: 30px;
+    display: grid;
+    justify-content: left;
+    align-content: center;
+    padding-left: 38px;
+    font-size: 20px;
+}
+
+.titleContent{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(10px, auto));
+    grid-gap: 50px;
+}

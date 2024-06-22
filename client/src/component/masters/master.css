@@ -1,0 +1,49 @@
+.imgMaster{
+    border-radius: 120px;
+}
+
+.master{
+    padding-top: 40px;
+    padding-right: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(150px, auto));
+    justify-content: center;
+    align-items: center;
+    grid-gap: 40px;
+}
+
+.contentBlock{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(150px, auto));
+    align-content: center;
+    width: 570px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 0 45px 45px 45px;
+}
+
+.masterInfo{
+    padding-left: 50px;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
+.buttonBlock{
+    padding-top: 5px;
+}
+
+.name{
+    font-size: 20px;
+}
+.description{
+    font-size: 20px;
+}
+
+.myProjects{
+    width: 150px;
+    height: 45px;
+    color: white;
+    background-color: #392626;
+    border-radius: 45px;
+}

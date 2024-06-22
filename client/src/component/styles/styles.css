@@ -1,0 +1,15 @@
+.titleStyles{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.stylesTattoo{
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(170px, auto));
+    grid-template-rows: repeat(2, auto);
+    justify-content: center;
+    grid-row-gap: 55px;
+    grid-column-gap: 87px;
+}

@@ -1,0 +1,8 @@
+body{
+    font-family: "Comfortaa";
+    background: url("../img/fon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

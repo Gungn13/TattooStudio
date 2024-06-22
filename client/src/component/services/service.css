@@ -1,0 +1,43 @@
+
+.imgBox{
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 310px;
+    height: 310px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.titleService{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    padding-top: 11px;
+    text-shadow: 0 0 4px black;
+}
+
+.formalizeButton{
+    width: 205px;
+    height: 55px;
+    background-color: #fff;
+    border-radius: 30px;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 8%;
+    text-decoration-color: black;
+    a { color:black }
+    a:visited { text-decoration: none}
+}
+
+.formalizeButton:hover{
+    border: 1px solid #fff;
+    box-shadow:0 0 20px #fff;
+}
+
+.bottomBlock{
+    position: absolute;
+    bottom: 25px;
+    left: 50px;
+}
+
+

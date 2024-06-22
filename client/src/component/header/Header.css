@@ -1,0 +1,21 @@
+.header{
+    height: 88px;
+    padding-top: 26px;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(6, minmax(10px, auto));
+    grid-auto-columns: minmax(40px, 150px);
+    grid-column-gap: 70px;
+    justify-content: center;
+}
+
+.wrapper a{
+    color: #1E1E1E;
+}
+
+.wrapper a:hover{
+    text-decoration: underline;
+}
+

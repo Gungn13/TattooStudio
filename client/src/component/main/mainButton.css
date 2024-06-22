@@ -1,0 +1,17 @@
+
+.row{
+    padding-top: 150px;
+    text-align: center;
+}
+
+.createTattoo{
+    color: #1E1E1E;
+    font-size: 40px;
+    display: inline-block;
+    transition: transform 0.7s ease;
+}
+
+.createTattoo:hover{
+    transform: scale(1.1);
+}
+

@@ -1,0 +1,13 @@
+.styleBlock{
+    width: 290px;
+    height: 240px;
+    border-radius: 30px;
+}
+
+.styleTitle{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    padding-top: 35%;
+    text-shadow: 0 0 4px black;
+}

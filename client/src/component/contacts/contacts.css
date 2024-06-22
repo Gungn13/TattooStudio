@@ -1,0 +1,13 @@
+.titleContacts{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.contactsBlock{
+    display: grid;
+    justify-content: center;
+    padding-top: 46px;
+    grid-template-rows: repeat(2, minmax(10px, auto));
+    grid-gap: 50px;
+}
